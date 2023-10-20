@@ -1,0 +1,31 @@
+.popup
+{
+    border: 1px solid;
+    width: 48%;
+    height: 315px;
+    /* margin-left: 100px; */
+    margin-top: 20px;
+}
+ 
+input
+{
+    margin-left: 12px;
+}
+
+.name_edit
+{
+    margin-left: 12px;
+    margin-top: 5px;
+}
+
+.btn
+{
+    width: 94%;
+    margin-left: 12px;
+    margin-top: 15px;
+    
+}
+.suman
+{
+    margin-top: 20px;
+}
